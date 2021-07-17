@@ -20,7 +20,7 @@
 }
 
 .nav-item {
-    display: inline;
+    display: inline-block;
     margin-left: 16px;
     color: white;
     /* 
