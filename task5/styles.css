@@ -26,14 +26,15 @@
 .content {
     background-color: beige;
     height: 5000px;
-    display: flex;
 }
 
 .head {
-    margin: auto;
     background-color: aquamarine;
     width: 200px;
     height: 200px;
+    position: absolute;
+    top: calc(50%);
+    left: calc(40%);
 }
 
 .ear {
