@@ -1,6 +1,6 @@
-/* * {
+* {
     box-sizing: border-box;
-} */
+}
 
 .header,
 .nav-list {
@@ -20,10 +20,11 @@
 }
 
 .nav-item {
-    display: inline-block;
-    color: white;
+    display: inline;
     margin-left: 16px;
-    list-style: none;
+    color: white;
+    /* 
+    list-style: none; */
 }
 
 .content {
