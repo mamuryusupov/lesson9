@@ -12,19 +12,18 @@
     position: fixed;
     z-index: 1;
     width: 100%;
+    line-height: 40px;
 }
 
 .nav-list {
     margin: 0;
-    line-height: 40px;
 }
 
 .nav-item {
-    display: inline-block;
+    float: left;
     margin-left: 16px;
     color: white;
-    /* 
-    list-style: none; */
+    list-style: none;
 }
 
 .content {
